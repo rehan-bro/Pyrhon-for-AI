@@ -28,5 +28,3 @@
 # else:
 #     print("The item is not for sale.")  
 
-print("Hello World")
-print("Hello World")
