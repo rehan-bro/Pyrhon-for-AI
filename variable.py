@@ -15,15 +15,16 @@
 
 # print(f"Age: {age}, Quantity: {quantity}")	
 
-is_student = True
-for_sale = False
+# is_student = True
+# for_sale = False
 
-if is_student:
-    print("You are a student.")
-else:
-    print("You are not a student.")     
+# if is_student:
+#     print("You are a student.")
+# else:
+#     print("You are not a student.")     
     
-if for_sale:
-    print("The item is for sale.")
-else:
-    print("The item is not for sale.")  
+# if for_sale:
+#     print("The item is for sale.")
+# else:
+#     print("The item is not for sale.")  
+
