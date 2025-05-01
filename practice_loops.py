@@ -7,7 +7,6 @@ list1 = []
 for i in range(5):
     list = int(input()) 
     list1.append(list)
-    list1.__reversed__(sort())
 print(list1)
 
 # print(help(list1))
